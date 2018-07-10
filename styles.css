@@ -1,0 +1,68 @@
+html{
+  background-color: #FFDCEB;
+}
+#name{
+  font-family: 'Nixie One', cursive;
+  text-align: right;
+  color: #AOAOAO
+
+}
+h1{
+  font-family: 'Nixie One', cursive;
+  text-decoration: underline;
+  color: #AAAAAA ;
+  text-align: center
+}
+h3{
+  font-family: 'Nixie One', cursive;
+  color: #AAAAAA ;
+  text-decoration: underline;
+  text-align: center
+}
+img{
+  border: 4px solid white;
+}
+#about_website{
+  font-family: 'Nixie One', cursive;
+  text-align: center;
+  color: white;
+}
+#psa{
+  font-family: 'Nixie One', cursive;
+  text-align: center;
+  color: white;
+
+}
+#dog1{
+  font-family: 'Nixie One', cursive;
+  text-align: center;
+  color: white;
+
+}
+#chad{
+  font-family: 'Nixie One', cursive;
+  text-align: center;
+  color: white;
+
+}
+#dog2{
+  font-family: 'Nixie One', cursive;
+  text-align: center;
+  color: white;
+
+}
+#service_dogs{
+  font-family: 'Nixie One', cursive;
+  text-align: center;
+  color: white;
+
+}
+#follow{
+  font-family: 'Nixie One', cursive;
+  text-decoration: underline;
+  color: white;
+}
+#email{
+  text-decoration: underline;
+  color: white;
+}
